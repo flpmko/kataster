@@ -15,6 +15,7 @@ Trieda bude umožňovať správne vytváranie *"deep copy"* objektov a priraďov
 
 V triede vytvorte metódu, ktorá bude na konzolu vypisovať informácie o nehnuteľnosti
 v tvare:
+			
 			Adresa: Vysokoškolákov 3
 
 			Cislo: 150
