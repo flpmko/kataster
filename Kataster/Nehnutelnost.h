@@ -10,6 +10,7 @@ public:
 	Nehnutelnost(char* paAdresa, int paCislo, float paRozloha);
 	Nehnutelnost(const Nehnutelnost& zdroj);
 	Nehnutelnost& operator = (const Nehnutelnost& zdroj);
+	friend bool operator != (Nehnutelnost& a, Nehnutelnost& b) { return a.cislo != b.cislo; };
 	void vypis();
 	~Nehnutelnost();
 };

@@ -51,5 +51,5 @@ void Nehnutelnost::vypis()
 
 Nehnutelnost::~Nehnutelnost()
 {
-	delete[] this->adresa;
+	delete[] adresa;
 }

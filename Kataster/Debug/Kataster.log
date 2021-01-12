@@ -1,2 +1,10 @@
-﻿  Register.cpp
+﻿  Nehnutelnost.cpp
+C:\Users\flpmk\source\repos\Kataster_Solution\Kataster\Nehnutelnost.cpp(14,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\flpmk\source\repos\Kataster_Solution\Kataster\Nehnutelnost.cpp(25,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\flpmk\source\repos\Kataster_Solution\Kataster\Nehnutelnost.cpp(38,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Register.cpp
+  main.cpp
+C:\Users\flpmk\source\repos\Kataster_Solution\Kataster\main.cpp(12,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\flpmk\source\repos\Kataster_Solution\Kataster\main.cpp(13,56): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
   Kataster.vcxproj -> C:\Users\flpmk\source\repos\Kataster_Solution\Debug\Kataster.exe
